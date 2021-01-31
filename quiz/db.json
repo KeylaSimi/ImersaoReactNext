@@ -6,8 +6,8 @@
       {
         "image": "https://media.giphy.com/media/nlgexSdFTWT9S/giphy.gif",
         "title": "Qual o ano de lançamento do filme Halloween?",
-        "description": "Essa é pra aquecer",
-        "answer": 3,
+        "description": "Filme: Halloween I",
+        "answer": 2,
         "alternatives": [
           "1996",
           "1984",
@@ -16,13 +16,73 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/zXKA3p9aR3u7u/giphy.gif",
+        "title": "Em qual cidade se passa o filme Pânico?",
+        "description": "Filme: Pânico I",
+        "answer": 3,
+        "alternatives": [
+          "Springwood",
+          "Haddonfield",
+          "Crystal Lake",
+          "Woodsboro"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PBSskZdeNUF0c/giphy.gif",
+        "title": "Quem foi a primeira vitima do Jigsaw?",
+        "description": "Filme: Jogos Mortais IV",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Cecil Adams",
+          "Alice L. Hardy",
+          "Tina Gray",
+          "Kirk"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/yBxZ2M8Xe6DS0/giphy.gif",
+        "title": "Verdadeiro ou Falso. Wes Craven foi o diretor dos filmes A hora do Pesadelo e Pânico?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Falso",
+          "Verdadeiro"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/pOHFkJA9MnqJa/giphy.gif",
+        "title": "Qual o verdadeiro nome do Chucky?",
+        "description": "Filme: Chucky",
+        "answer": 1,
+        "alternatives": [
+          "Cecil Adams",
+          "Charles Lee Ray",
+          "Casey Becker",
+          "Kirk"
+        ]
+      },  
+      {
+        "image": "https://media.giphy.com/media/otbWvETTuSu64/giphy.gif",
+        "title": "Algumas versões do jogo Mortal Kombat possuem 'Personagens Convidados'. Quais desses dois personagens apareceram no game?",
+        "description": "Games",
+        "answer": 2,
+        "alternatives": [
+          "Freddy Krueger e Ghostface",
+          "Ghostface e Jason",
+          "Leatherface e Freddy Krueger",
+          "Jason e Chucky"
+        ]
+      },  
+      {
+        "image": "https://media.giphy.com/media/fCTLWyjK9PMQ5u7LUU/giphy.gif",
+        "title": "Quais desses atores estiveram em algum dos filmes da Franquia A Hora do Pesadelo?",
+        "description": "Filme: A hora do Pesadelo (franquia)",
+        "answer": 1,
+        "alternatives": [
+          "Jamie Kennedy, Drew Barrymore, Rose McGoan",
+          "Johnny Depp, Patricia Arquette, Mariska Hargitay",
+          "Danny Glover, Cary Elwes, Donnie Wahlberg",
+          "Dennis Hopper, Alexandra Daddario, Jordana Brewster"
         ]
       }
     ],

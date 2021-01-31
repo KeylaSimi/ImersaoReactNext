@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <Head>
-        <title>AluraQuiz - Filmes de Terror (Slasher)</title>
+        <title>{db.title}</title>
       </Head>      
       <QuizContainer>
         <QuizLogo />
@@ -66,7 +66,7 @@ export default function Home() {
               <Input
                 name="nomeDoUsuario"
                 onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
-                placeholder="Diz ai seu nome"
+                placeholder="Digite o seu nome"
                 value={name}
               />
 
@@ -79,9 +79,9 @@ export default function Home() {
 
         <Widget>
           <Widget.Content>
-            <h1>Quizes da Galera</h1>
+            <h1>Quiz da Galera</h1>
 
-            <p>lorem ipsum dolor sit amet...</p>
+            <p>aluraquiz</p>
           </Widget.Content>
         </Widget>
         <Footer />
