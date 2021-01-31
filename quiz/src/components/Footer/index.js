@@ -2,6 +2,12 @@ import styled from 'styled-components'
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
+  border: 1px solid ${({ theme }) => theme.colors.primary};
+  background-color: ${({ theme }) => {
+    return theme.colors.mainBg;
+  }};
+  border-radius: 4px;
+
   background-color: #00000070;
   padding: 20px;
   display: flex;
